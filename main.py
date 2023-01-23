@@ -1,3 +1,3 @@
-import controller
+from controller import my_menu
 
-controller.button_click()
+my_menu()
